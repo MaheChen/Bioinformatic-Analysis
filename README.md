@@ -1,4 +1,4 @@
-# Bioinformatic-Analysis
+# Bioinformatic Analysis of Cellular Proteomic Data
 
 The purpose of this project is to apply statistics in bioinformatic research work to help fight cancer.
 
