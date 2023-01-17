@@ -6,7 +6,7 @@ We will explore how to direct deleterious cellular states to transition into non
 
 Our presentation slides is reproducible using the provided .Rmd file.
 
-Our project data is available for download [here].(https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download)
+Our project data is available for download [here](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download).
 
 ## Contributors
 Matthew Qiankun Yu
