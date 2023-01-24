@@ -1,6 +1,6 @@
 # Bioinformatic Analysis of Cellular Proteomic Data
 
-Our final project for the course STA130H1: An Introduction to Statistical Reasoning and Data Science.
+Our final project for the course: An Introduction to Statistical Reasoning and Data Science.
 
 The purpose of this project is to apply statistics in bioinformatic research work to help fight cancer!
 
