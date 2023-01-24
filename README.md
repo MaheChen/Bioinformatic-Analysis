@@ -19,6 +19,7 @@ Rstudio, RMarkdown, Tidyverse, ggplot2, gridExtra, Glue, Rpart, partykit, Jupyte
 
 ## Side Note
 Our presentation slides is reproducible using the provided .Rmd file.
+
 Our project data is available for download [here](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download).
 
 ## Project References
