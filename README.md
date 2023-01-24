@@ -15,7 +15,7 @@ Distributions, Data Wrangling, One/Two Sample Hypothesis Testing, Bootstrap Conf
 
 
 ## Tools Used
-Rstudio, RMarkdown, Tidyverse, ggplot2, gridExtra, Glue, Rpart, partykit
+Rstudio, RMarkdown, Tidyverse, ggplot2, gridExtra, Glue, Rpart, partykit, JupyterHub.
 
 ## Side Note
 Our presentation slides is reproducible using the provided .Rmd file.
