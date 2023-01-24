@@ -22,7 +22,7 @@ Our presentation slides is reproducible using the provided .Rmd file.
 
 Our project data is available for download [here](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download).
 
-## Project References
+## References
 - NCI Dictionaries, National Cancer Institute
   - https://www.cancer.gov/publications/dictionaries
 - The Neural Crest and Cancer: A Developmental Spin on Melanoma, National Library of Medicine
