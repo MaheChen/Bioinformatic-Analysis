@@ -5,16 +5,20 @@ Our final project for the course STA130H1: An Introduction to Statistical Reason
 The purpose of this project is to apply statistics in bioinformatic research work to help fight cancer!
 
 Our data is based on advances of single cell analysis in the fields of Flow Cytometry and cellular proteomic processes in the fields of Mass Spectrometry.
+
 Based on the above analysis, we will measure the multivariate landscape of proteomic activity for a single cell in any experimental condition for any cell type at scale.
 
 We will explore how to direct deleterious cellular states to transition into non-deleterious states by analyzing the typical cellular homeostatis of healthy and deliterious cells and the phenotypical transformation of cellular proteomic homeostatsis over time in response to different experimental conditions.
 
-Statistical Methods used: Distributions, Data Wrangling, One/Two Sample Hypothesis Testing, Bootstrap Confidence Intervals, Simple Linear Regression, Multivariate Linear Regression and Classification Decision Trees.
+## Statistical Methods
+Distributions, Data Wrangling, One/Two Sample Hypothesis Testing, Bootstrap Confidence Intervals, Simple Linear Regression, Multivariate Linear Regression and Classification Decision Trees.
 
-Tools used: Rstudio, RMarkdown, Tidyverse, ggplot2, gridExtra, Glue, Rpart, partykit
 
+## Tools Used
+Rstudio, RMarkdown, Tidyverse, ggplot2, gridExtra, Glue, Rpart, partykit
+
+## Side Note
 Our presentation slides is reproducible using the provided .Rmd file.
-
 Our project data is available for download [here](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download).
 
 ## Project References
