@@ -1,6 +1,6 @@
 # Bioinformatic Analysis of Cellular Proteomic Data
 
-This is our final project for our first-year statistics course.
+This is our final project for our first-year statistics course at UofT.
 
 The purpose of this project is to apply statistics in bioinformatic research work to help fight cancer!
 
