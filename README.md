@@ -1,6 +1,6 @@
 # Bioinformatic Analysis of Cellular Proteomic Data
 
-Our final project for the course: An Introduction to Statistical Reasoning and Data Science.
+This is our final project for our first-year statistics course.
 
 The purpose of this project is to apply statistics in bioinformatic research work to help fight cancer!
 
