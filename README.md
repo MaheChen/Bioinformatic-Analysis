@@ -11,7 +11,7 @@ Based on the above analysis, we will measure the multivariate landscape of prote
 We will explore how to direct deleterious cellular states to transition into non-deleterious states by analyzing the typical cellular homeostatis of healthy and deliterious cells and the phenotypical transformation of cellular proteomic homeostatsis over time in response to different experimental conditions.
 
 ## Statistical Methods
-Distributions, Data Wrangling, One/Two Sample Hypothesis Testing, Bootstrap Confidence Intervals, Simple Linear Regression, Multivariate Linear Regression and Classification Decision Trees.
+Distributions, Data Wrangling, Hypothesis Testing, Bootstrap Confidence Intervals, Linear Regression and Classification Decision Trees.
 
 
 ## Tools Used
