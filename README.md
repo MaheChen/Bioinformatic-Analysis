@@ -20,7 +20,9 @@ Rstudio, RMarkdown, Tidyverse, ggplot2, gridExtra, Glue, Rpart, partykit, Jupyte
 ## Side Note
 Our presentation slides is reproducible using the provided .Rmd file.
 
-Our project data is available for download [here](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download).
+## Project Data
+Our data come from the article (Refer to the below link) finding that the “AP-1 transcription factor network” (i.e., the relative distributions and dependency relationships of transcription factors) are predictive of “cellular plasticity in melanoma” (i.e., how easily changeable the phenotype are melanoma cell lines) [Link](https://www.biorxiv.org/content/10.1101/2021.12.06.471514v1.full)
+Our project data is available for download here: [Link](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download).
 
 ## References
 - NCI Dictionaries, National Cancer Institute
