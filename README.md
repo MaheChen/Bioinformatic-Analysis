@@ -1,29 +1,20 @@
-# Bioinformatic Analysis of Cellular Proteomic Data
+# Cellular Proteomic Analysis
 
-This is our final project for our first-year statistics course at UofT.
+## Objective
+The primary objective is to understand the typical cellular homeostasis of healthy and deleterious cells and observe how cellular proteomic homeostasis transforms over time in response to experimental conditions. Ultimately, the project aims to discover ways to direct deleterious cellular states towards non-deleterious states using data-driven identification and control of high-dimensional dynamical systems. The overarching goal is to contribute to the fight against cancer and improve the quality of life for patients and their loved ones.
 
-The purpose of this project is to apply statistics in bioinformatic research work to help fight cancer!
+## Dataset
+Our dataset come from the article <[Link](https://www.biorxiv.org/content/10.1101/2021.12.06.471514v1.full)> finding that the “AP-1 transcription factor network” (i.e., the relative distributions and dependency relationships of transcription factors) are predictive of “cellular plasticity in melanoma” (i.e., how easily changeable the phenotype are melanoma cell lines) 
 
-Our data is based on advances of single cell analysis in the fields of Flow Cytometry and cellular proteomic processes in the fields of Mass Spectrometry.
+Our project dataset is available for download here: <[Link](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download)>
 
-Based on the above analysis, we will measure the multivariate landscape of proteomic activity for a single cell in any experimental condition for any cell type at scale.
-
-We will explore how to direct deleterious cellular states to transition into non-deleterious states by analyzing the typical cellular homeostatis of healthy and deliterious cells and the phenotypical transformation of cellular proteomic homeostatsis over time in response to different experimental conditions.
+This dataset consists of measurements of 22 AP-1 transcription factors and 4 phenotype proteins simultaneously. These measurements are taken on individual cells under different experimental conditions, allowing the observation of protein levels and their relationships over time. To measure the progression over time, cells are split into groups and measurements are made at different time points, providing insights into the temporal dynamics of the experimental conditions.
 
 ## Statistical Methods
-Distributions, Data Wrangling, Hypothesis Testing, Bootstrap Confidence Intervals, Linear Regression and Classification Decision Trees.
+The project involves several statistical analyses and data science techniques, including hypothesis testing, correlation estimation, regression, and classification. These analyses aim to answer questions about changes in protein levels over time, differences in protein levels between experimental conditions, relationships between proteins at specific time points, and the predictability of cellular phenotypes based on transcription factors. Additionally, the project explores the patterns and meta-analyses of the obtained results.
 
-
-## Tools Used
-Rstudio, RMarkdown, Tidyverse, ggplot2, gridExtra, Glue, Rpart, partykit, JupyterHub.
-
-## Side Note
-Our presentation slides is reproducible using the provided .Rmd file.
-
-## Project Data
-Our data come from the article <[Link](https://www.biorxiv.org/content/10.1101/2021.12.06.471514v1.full)> finding that the “AP-1 transcription factor network” (i.e., the relative distributions and dependency relationships of transcription factors) are predictive of “cellular plasticity in melanoma” (i.e., how easily changeable the phenotype are melanoma cell lines) 
-
-Our project data is available for download here: <[Link](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download)>
+## Tools
+To support our analysis, we will utilize R programming language and various packages such as Ggplot2, Knitr, Dplyr, Tidyverse, and Rpart. These tools will facilitate data visualization, data manipulation, and the generation of informative reports. 
 
 ## References
 - NCI Dictionaries, National Cancer Institute
